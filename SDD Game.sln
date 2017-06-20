@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDD Game", "Assembly-CSharp.csproj", "{50D5141E-F86B-DB1C-14AE-D54D192BAD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDD Game", "Assembly-CSharp-Editor.csproj", "{F364ABCF-5CBE-8744-E696-D36BF1586A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D5141E-F86B-DB1C-14AE-D54D192BAD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D5141E-F86B-DB1C-14AE-D54D192BAD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D5141E-F86B-DB1C-14AE-D54D192BAD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D5141E-F86B-DB1C-14AE-D54D192BAD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F364ABCF-5CBE-8744-E696-D36BF1586A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F364ABCF-5CBE-8744-E696-D36BF1586A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F364ABCF-5CBE-8744-E696-D36BF1586A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F364ABCF-5CBE-8744-E696-D36BF1586A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
